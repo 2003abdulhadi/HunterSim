@@ -1,5 +1,4 @@
-Final Project by : Gurjas Chalana
-                   Abdul Hadi
+Final Project by : Gurjas Chalana & Abdul Hadi
 
 A simulation of 4 Hunters in a building of rooms in a ghost as defined by the spec.
 Each building contains a list of rooms which follow the structure of the image attached
